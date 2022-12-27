@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150884011754",
+    "project_id": "twinzy-project",
+    "storage_bucket": "twinzy-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150884011754:android:536d2652e13d34e4af5193",
+        "android_client_info": {
+          "package_name": "com.example.twinzy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150884011754-893radomajn82bsfjgcebb8mg0vd91bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNTgKNZJI9Qg9k3xO6K8wdXw3nfPr6_04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150884011754-893radomajn82bsfjgcebb8mg0vd91bf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
